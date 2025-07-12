@@ -30,3 +30,5 @@ app.register(getRoomQuestionsRoute);
 app.register(createQuestionRoute);
 
 app.listen({ port: env.PORT });
+
+console.log('server is runing on port:', env.PORT);
