@@ -1,7 +1,6 @@
 import { ArrowLeft, Radio } from 'lucide-react';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import { QuestionForm } from '@/components/question-form';
-import { QuestionItem } from '@/components/question-item';
 import { QuestionList } from '@/components/question-list';
 import { Button } from '@/components/ui/button';
 
