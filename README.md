@@ -1,6 +1,6 @@
 # NLW Agents
 
-Este repositório contém uma aplicação full stack desenvolvida durante evento da Rocketseat no mês de juljo de 2025, dividida em duas partes:
+Este repositório contém uma aplicação full stack desenvolvida durante evento da Rocketseat no mês de julho de 2025, dividida em duas partes:
 
 - **Backend** (`/server`): API construída com Node.js e Express.
 - **Frontend** (`/web`): Interface web desenvolvida com React + Vite.
